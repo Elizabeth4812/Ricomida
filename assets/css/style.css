@@ -1,0 +1,101 @@
+/* {} */
+
+.navbar {
+  background-color: #373A3C;
+  color:white;
+  width: 100vw;
+
+}
+
+.container {
+  text-align: left;
+  align-items: left;
+  margin: 40px;;
+  border:0;
+  padding:0;
+}
+
+body {
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Lobster', cursive;
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 20px;
+    
+}
+
+#suscripcion {
+  padding:5%;
+  background-color: #DC3545;
+  color:antiquewhite;
+}
+
+#logo_ricomida {
+  height: 30px;
+  width: 100px;
+  margin-left: 150px;
+  margin-right: auto;  
+}
+
+#foto_principal {
+  height: 384px;
+  width: 482px;
+  margin-left: 150px;
+  margin-right: 84px; 
+}
+
+#pizza {
+  width: 30px;
+  font-family: "Cabin";
+  font-size: medium;
+}
+
+#ingredientes {
+  margin-left: 150px;
+  margin-right: 180px;
+}
+.section {
+  height: 300px;
+  width: 400px;
+}
+
+#carouselExampleIndicators img{
+  width: 80%;
+  margin-left: 150px;
+
+}
+
+/* Tipografía por tipo y párrafo*/
+
+#row_1 {
+  margin-left: 150px;
+}
+
+#recetas {
+  text-align: center;
+  position: center;
+  margin-left: 150px;
+  
+}
+
+
+footer{
+  background-color: #343A40;
+}
+
+#footer {
+  background-color: #E83E8C;
+  margin: auto;
+  position: center;
+
+}
+
+#logo_footer {
+  width: 100px;
+
+}
+
+
+
+/* ____ */
+
+
